@@ -9,6 +9,7 @@ This repo includes notebooks that demonstrate the following:
 - Python basics: data types, loops, functions, file I/O
   
   <img width="437" height="22" alt="image" src="https://github.com/user-attachments/assets/e8fed51b-a233-4f82-830d-14cc49a13823" />
+  
   <img width="486" height="24" alt="image" src="https://github.com/user-attachments/assets/58e88848-528d-493d-8707-0b0a4981ed9f" />
   
   <img width="277" height="57" alt="image" src="https://github.com/user-attachments/assets/27b45153-372e-4633-b740-4026fcbb4999" />
@@ -17,7 +18,9 @@ This repo includes notebooks that demonstrate the following:
   <img width="478" height="88" alt="image" src="https://github.com/user-attachments/assets/02a03c9f-cf81-4e48-8094-37eddd6bd16c" />
   
 - Working with lists, dictionaries, and sets
+- 
   <img width="445" height="381" alt="image" src="https://github.com/user-attachments/assets/92e0f854-cf2e-47df-bd4a-62de53593610" />
+  
 - Creating Lists with `pandas`
   <img width="438" height="30" alt="image" src="https://github.com/user-attachments/assets/b2866de0-b2b6-4039-b58a-92b1f383c81f" />
 - Data cleaning and transformation
