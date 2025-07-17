@@ -19,4 +19,4 @@ This repo includes notebooks that demonstrate the following:
 - **Project A**: Salary prediction using linear regression  
 - **Project B**: Data cleaning, outlier handling, and modeling pipeline  
 
-## 🗂 Project Structure
+
