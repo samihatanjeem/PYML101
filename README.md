@@ -6,7 +6,9 @@ Welcome to PyML101! It is a consolidated collection of Python and Machine Learni
 
 This repo includes notebooks that demonstrate the following:
 
-- Python basics: data types, loops, functions, file I/O  
+- Python basics: data types, loops, functions, file I/O
+- <img width="707" height="558" alt="image" src="https://github.com/user-attachments/assets/493a03ef-acc8-4134-8717-4b8864f5a07e" />
+
 - Object-Oriented Programming (OOP)  
 - Working with lists, dictionaries, and sets  
 - Reading & writing CSVs with `pandas`  
