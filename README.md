@@ -1,6 +1,6 @@
 # 🤖PyML101
 
-Welcome to **PyMLHub**, a consolidated collection of Python and Machine Learning homeworks and mini-projects, all bundled into one clean workspace. This repository brings together hands-on exercises in Python programming, data analysis, and foundational machine learning — perfect for quick refreshers, practice, or teaching demos.
+Welcome to PyML101! It is a consolidated collection of Python and Machine Learning homeworks and mini projects, all bundled into one clean workspace. This repository brings together the exercises in Python programming, data analysis, and foundational machine learning, which is perfect for quick refreshers, practice, or teaching demos.
 
 ## Topics Covered
 
